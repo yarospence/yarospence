@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yarospence
 - 👀 I’m interested in full stack blockchain development.
-- 🌱 I’m currently working on front-end development to become a fully stacked blockchain developer. 
+- 🌱 I’m currently working with Solidity, Truffle, and Ganache. 
 - 💞️ I’m looking to collaborate with experienced backend & frontend developers. 
 - 📫 How to reach me Email: tolivercapital@gmail.com
 

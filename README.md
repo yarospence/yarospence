@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yarospence
+- 👋 Hi, I’m @Spencer
 - 👀 I’m interested in full stack blockchain development.
 - 🌱 I’m currently working with Solidity, Truffle, and Ganache. 
 - 💞️ I’m looking to collaborate with experienced backend & frontend developers. 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Spencer
-- 👀 I’m interested in full stack blockchain development.
-- 🌱 I’m currently working with Solidity, Truffle, and Ganache. 
-- 💞️ I’m looking to collaborate with experienced backend & frontend developers. 
+- 👀 I’m interested in blockchain development; 
+- 🌱 I’m currently working with solidity, javascript, react, web 3.0; 
+- 💞️ I’m looking to for a junior blockchain developer position in the DeFi industry. 
 - 📫 How to reach me Email: tolivercapital@gmail.com
 
 <!---

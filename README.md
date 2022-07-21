@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Spencer
-- 👀 I’m interested in blockchain development; 
-- 🌱 I’m currently working with solidity, javascript, react, web 3.0; 
+- 👋 Hey, my name is Spencer;
+- 👀 I am currently working on blockchain development projects; 
+- 🌱 I have shown proficiency in languages such as solidity, python, & javascript; 
 - 💞️ I’m looking to for a junior blockchain developer position in the DeFi industry. 
-- 📫 How to reach me Email: tolivercapital@gmail.com
+- 📫 How to contact me: solo.to/yarospence
 
 <!---
 yarospence/yarospence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

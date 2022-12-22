@@ -1,6 +1,6 @@
 - 👋 Hey, my name is Spencer;
 - 👀 I am currently working on blockchain development projects; 
-- 🌱 I have shown proficiency in languages such as solidity, python, & javascript; 
+- 🌱 I have shown proficiency in languages such as solidity & javascript; 
 - 💞️ I’m looking to for a junior blockchain developer position in the DeFi industry. 
 - 📫 How to contact me: solo.to/yarospence
 

@@ -1,7 +1,7 @@
 - 👋 Hey, my name is Yaro;
 - 👀 I am currently working on blockchain development projects; 
 - 🌱 I have shown proficiency in solidity language; 
-- 💞️ I am currently studying to become junior blockchain developer position in the DeFi industry. 
+- 💞️ Solidity & React Developer
 - 📫 Be fucking consistent, no excuses.
 
 <!---

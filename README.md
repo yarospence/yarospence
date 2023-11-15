@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Yaro!</h1>
-<h3 align="center">Energetic Blockchain Developer from Dallas, Texas, USA</h3>
+<h3 align="center">Fullstack Blockchain Developer from Dallas, Texas, USA</h3>
 
 <p align="left"> <a href="https://twitter.com/yarospence" target="blank"><img src="https://img.shields.io/twitter/follow/yarospence?logo=twitter&style=for-the-badge" alt="yarospence" /></a> </p>
 
-- 🔭 I’m currently working on **Solidity and blockchain development projects**
+- 🔭 I’m currently working on **React JS and blockchain development projects**
 
 - 🌱 I’m currently learning Fullstack development in **Javascript, React JS, Solidity, and Hardhat**
 

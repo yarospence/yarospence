@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **React JS and blockchain development projects**
 
-- 🌱 I’m currently learning Fullstack blockchain development
+- 🌱 I’m currently learning Next.JS development
   
 - 👯 I’m looking to collaborate on any **Decentralized Finance projects**
 
 - 👨‍💻 All of my projects are available to view at [yarospence.io](yarospence.io)
 
-- 📝 I regularly review and trade currencies (crypto & fiat)
+- 📝 A Hobby of mine is that I regularly review and trade currencies (crypto & fiat).
 
-- 💬 Feel free to ask me about **React JS and Solidity**
+- 💬 Feel free to ask me about **Solidity and React JS**
 
 - 📫 How to reach me **on Twitter or Instagram @yarospence**
 

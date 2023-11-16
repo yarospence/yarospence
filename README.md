@@ -15,7 +15,7 @@
 
 - 💬 Feel free to ask me about **Solidity and React JS**
 
-- 📫 How to reach me **on Twitter or Instagram @yarospence**
+- 📫 How to reach me **on Twitter, Instagram, Linkedin @yarospence**
 
 - ⚡ Fun fact about me is **I love to innovate and create problem solving solutions.**
 

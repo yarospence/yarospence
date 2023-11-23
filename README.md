@@ -1,23 +1,10 @@
-<h1 align="center">Hey 👋, I'm Yaro!</h1>
-<h3 align="center">Fullstack Blockchain Developer from Dallas, Texas, USA</h3>
+<h1 align="center">Welcome to Yaro.</h1>
+<h3 align="center">Solidity | React JS</h3>
 
 <p align="left"> <a href="https://twitter.com/yarospence" target="blank"><img src="https://img.shields.io/twitter/follow/yarospence?logo=twitter&style=for-the-badge" alt="yarospence" /></a> </p>
 
-- 🔭 I’m currently working on **React JS and blockchain development projects**
-
-- 🌱 I’m currently learning Next.JS development
-  
+- 🔭 I’m currently working on **Fullstack Blockchain development**
 - 👯 I’m looking to collaborate on any **Decentralized Finance projects**
-
-- 👨‍💻 All of my projects are available to view at [yarospence.io](yarospence.io)
-
-- 📝 A Hobby of mine is that I regularly review and trade currencies (crypto & fiat).
-
-- 💬 Feel free to ask me about **Solidity and React JS**
-
-- 📫 How to reach me **on Twitter and Linkedin @yarospence**
-
-- ⚡ Fun fact about me is **I love to innovate and create problem solving solutions.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
